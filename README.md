@@ -3,4 +3,5 @@ Image Uploading, Thymeleaf, spring MVC, Embedded HTML CSS and JS into spring Pro
 
 @demo
 Learn get method - getAll and getBtId.
+@Put, @Delete @Post @Get
 
